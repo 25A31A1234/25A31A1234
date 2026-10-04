@@ -9,7 +9,7 @@ Machine Learning and Web Development.
 
 ## 🐍 Python Learning
 
-- Python Basics
+-https://github.com/25A31A1234/Intelligent-interview-preparation
 - Python Practice
 - Python Programming
 - Data Science Practice
