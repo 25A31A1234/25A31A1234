@@ -9,10 +9,12 @@ Machine Learning and Web Development.
 
 ## 🐍 Python Learning
 
--https://github.com/25A31A1234/Intelligent-interview-preparation
-- Python Practice
-- Python Programming
-- Data Science Practice
+- https://github.com/25A31A1234/movie-Finder
+- https://github.com/25A31A1234/Number_adder1
+- https://github.com/25A31A1234/profilecard-generator
+- https://github.com/25A31A1234/calculator
+- https://github.com/25A31A1234/awesome-python
+- https://github.com/25A31A1234/love_calculator.python
 
 ---
 
@@ -26,10 +28,10 @@ Machine Learning and Web Development.
 
 ## 🚀 Projects
 
-- AI Interview Preparation System
-- AI-Based Quantum Algorithm Learning Platform
-- Other AI/ML Projects
-
+-  https://github.com/25A31A1234/Rapid-_response
+- https://github.com/25A31A1234/Quantum-Entanglement-Simulation
+- https://github.com/25A31A1234/Intelligent-interview-preparation
+- https://github.com/25A31A1234/Quantum-Entanglement-Simulation-
 ---
 
 ## 💻 Coding Practice
@@ -37,6 +39,10 @@ Machine Learning and Web Development.
 - LeetCode
 - HackerRank
 - Data Structures & Algorithms
+
+
+## DSA practice
+-https://github.com/25A31A1234/Hashing-Contact-Book
 
 ---
 
