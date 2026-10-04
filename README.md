@@ -42,8 +42,8 @@ Machine Learning and Web Development.
 
 
 ## DSA practice
--https://github.com/25A31A1234/Hashing-Contact-Book
-https://github.com/25A31A1234/recursion-number-explorer/tree/main
+- https://github.com/25A31A1234/Hashing-Contact-Book
+- https://github.com/25A31A1234/recursion-number-explorer/tree/main
 
 ---
 
