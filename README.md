@@ -15,6 +15,7 @@ Machine Learning and Web Development.
 - https://github.com/25A31A1234/calculator
 - https://github.com/25A31A1234/awesome-python
 - https://github.com/25A31A1234/love_calculator.python
+- https://github.com/25A31A1234/password-generator
 
 ---
 
