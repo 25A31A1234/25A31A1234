@@ -21,6 +21,7 @@ Machine Learning and Web Development.
 
 ## 🌐 Web Development
 - https://github.com/25A31A1234/profilecard-generator
+- https://github.com/25A31A1234/Savings_calculator
 - HTML & CSS
 - JavaScript
 - Web Development Projects
